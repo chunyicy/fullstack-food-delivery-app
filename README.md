@@ -1,6 +1,6 @@
 # fullstack-food-ordering-app
 
-### I developed a food ordering app using Java Spring Boot framework for the backend and React JavaScript library for the frontend.
+### Developed a food ordering app using Java Spring Boot framework for the backend and React JavaScript library for the frontend.
 
 <br/>
 
