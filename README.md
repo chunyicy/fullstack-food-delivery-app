@@ -58,8 +58,61 @@ https://github.com/user-attachments/assets/5eaeda5e-f2a3-46c7-b6f9-1bcefac75575
 ## Functionalities:
 
 All users can register and log in to the application, with their credentials securely verified against the database. Whether registered or not, users can view product listings, add item their cart, view cart items, delete item from the cart, clear all items from the cart, increase quantity, decrease quantity, adjust quantities, calculate the total amount.
-Registered users can view their profile page and proceed to checkout.
+Registered users can view their profile page.
 Admin user can manage product listings by adding or deleting items and view their own profile page.
+
+### Non-Registered Users:
+
+1. View Product Listings:
+
+Browse available products without the need to log in.
+
+2. Add Items to Cart:
+
+Select products to add to their shopping cart.
+
+3. Modify Quantity:
+
+Increase or decrease the quantity of items in the cart.
+
+4. Delete Single Item:
+
+Remove an individual item from the cart.
+
+5. Clear Cart:
+
+Empty the entire shopping cart if desired.
+
+6. Total Sum of Cart Items:
+
+View the total price of all items currently in the cart.
+
+7. Proceed to Checkout:
+
+Move to the checkout page to finalize the purchase.
+
+<br/>
+
+### Registered Users:
+
+1. View Profile Page:
+
+Access personal information.
+
+<br/>
+
+### Admin User:
+
+1. Manage Product Listings:
+
+Add new products, edit existing product details, or remove products.
+
+2. View Profile Page:
+
+Access and manage their admin profile information.
+
+<br/>
+
 
 Build Add Product REST API
 
