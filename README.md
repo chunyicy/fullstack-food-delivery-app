@@ -126,7 +126,7 @@ Build Login REST API
 
 Build User Profile REST API
 
-Manage cart items in React frontend using React hook (useContext), create context that holds the cart state and provides methods for adding, removing and clearing items.
+Manage cart items in React frontend using React hook (useContext), using createContext hook to create context that holds the cart state and provides methods for adding, removing and clearing items, useReducer hook to manage the cart state, and useEffect to load and saving cart data.
 
 
 ### Home Page:
