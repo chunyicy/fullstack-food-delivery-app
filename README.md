@@ -37,6 +37,29 @@
 
 •	HTML & CSS – Create visually appealing layout, ensure usability and accessibility
 
+<br/>
+
+Using React createContext function to create context object for managing global state, passing down data through component tree without having to pass props down to each level, share data across many components.
+For efficient shopping cart item management, I create a cart context to hold the global state of the shopping cart, and provides methods for getting, adding, removing, clearing cart items. 
+
+<br/>
+
+Using useReducer hook to take the current state and an action as arguments, and dispatch action to the reducer to update the shopping cart state. 
+
+<br/>
+
+Applying useEffect hook to trigger side effect, such as saving cart data to local storage whenever the cart item change.
+
+<br/>
+
+Using map function to loop through the cart items array, rendering each item with its image, quantity, individual price and total price.
+
+<br/>
+
+Lastly, on the on the navigation bar, the cart button displays the total number of items in the cart, which is calculated using the cart context, and using reduce function to sum up the quantities in the cart and the total price.
+
+
+
 ### Secure REST APIs:
 •	Implemented JWT for stateless authentication
 
